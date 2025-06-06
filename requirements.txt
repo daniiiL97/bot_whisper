@@ -1,10 +1,11 @@
 streamlit
 transformers>=4.36.2
 torch>=2.1.0
-moviepy>=1.0.3
-imageio
-imageio-ffmpeg
+moviepy>=1.0.3  # Было "movlepy" (ошибка)
+imageio         # Было "imagcio" (ошибка)
+imageio-ffmpeg  # Было "imagcio-frmpeg" (ошибка)
 decorator
 numpy
 soundfile
 python-docx
+ffmpeg-python   # Добавлено для работы с видео
