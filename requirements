@@ -1,0 +1,7 @@
+streamlit
+transformers>=4.36.2
+torch>=2.1.0
+moviepy>=1.0.3
+soundfile
+numpy
+python-docx
