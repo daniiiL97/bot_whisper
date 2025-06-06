@@ -2,6 +2,9 @@ streamlit
 transformers>=4.36.2
 torch>=2.1.0
 moviepy>=1.0.3
-soundfile
+imageio
+imageio-ffmpeg
+decorator
 numpy
+soundfile
 python-docx
